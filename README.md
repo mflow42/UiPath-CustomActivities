@@ -1,4 +1,4 @@
-UiPath-CustomActivities
+UiPath-CustomActivities by Nikolay But
 
 ## License
 UiPath-CustomActivities is licensed under the [MIT license][MIT].
