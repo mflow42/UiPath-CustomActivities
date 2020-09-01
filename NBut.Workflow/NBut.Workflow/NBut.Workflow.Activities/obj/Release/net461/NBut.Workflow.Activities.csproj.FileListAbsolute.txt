@@ -1,0 +1,15 @@
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\bin\Release\net461\NBut.Workflow.Activities.dll
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\bin\Release\net461\NBut.Workflow.Activities.pdb
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\bin\Release\net461\NBut.Workflow.Activities.xml
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\bin\Release\net461\NBut.Workflow.dll
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\bin\Release\net461\NBut.Workflow.pdb
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\bin\Release\net461\NBut.Workflow.xml
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\obj\Release\net461\NBut.Workflow.Activities.csprojAssemblyReference.cache
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\obj\Release\net461\NBut.Workflow.Activities.Properties.Resources.resources
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\obj\Release\net461\NBut.Workflow.Activities.csproj.GenerateResource.cache
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\obj\Release\net461\NBut.Workflow.Activities.csproj.CoreCompileInputs.cache
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\obj\Release\net461\NBut.Workflow.Activities.AssemblyInfoInputs.cache
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\obj\Release\net461\NBut.Workflow.Activities.AssemblyInfo.cs
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\obj\Release\net461\NBut.Workflow.Activities.csproj.CopyComplete
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\obj\Release\net461\NBut.Workflow.Activities.dll
+C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities\obj\Release\net461\NBut.Workflow.Activities.pdb

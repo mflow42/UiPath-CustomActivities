@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.Activities\\NBut.Workflow.Activities.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.Activities\\NBut.Workflow.Activities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.Activities\\NBut.Workflow.Activities.csproj",
+        "projectName": "NBut.Workflow.Activities.Implementation",
+        "projectPath": "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.Activities\\NBut.Workflow.Activities.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.Activities\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\source\\repos\\NBut.Workflow\\.nuget\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {
+              "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.csproj": {
+                "projectPath": "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.csproj",
+                "privateAssets": "all"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.csproj",
+        "projectName": "NBut.Workflow",
+        "projectPath": "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\User\\source\\repos\\NBut.Workflow\\.nuget\\NuGet.Config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net461"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://nuget.org/api/v2/": {},
+          "https://www.myget.org/F/uipath/": {}
+        },
+        "frameworks": {
+          "net461": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net461": {
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
