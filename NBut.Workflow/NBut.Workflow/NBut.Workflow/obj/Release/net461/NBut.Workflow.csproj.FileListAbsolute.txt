@@ -9,3 +9,14 @@ C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Releas
 C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.AssemblyInfo.cs
 C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.dll
 C:\Users\n.but\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.pdb
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\bin\Release\net461\NBut.Workflow.dll
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\bin\Release\net461\NBut.Workflow.pdb
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\bin\Release\net461\NBut.Workflow.xml
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.csprojAssemblyReference.cache
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.Properties.Resources.resources
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.csproj.GenerateResource.cache
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.AssemblyInfoInputs.cache
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.AssemblyInfo.cs
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.csproj.CoreCompileInputs.cache
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.dll
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow\obj\Release\net461\NBut.Workflow.pdb

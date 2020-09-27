@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9u6RG7L2g4PMotvP8YaF3uZ2rCbWiThKiNM4xBxwAUAC59glGzgy3NC5e+AN6LHH3T4jeQkxas/4xShw3B7mXg==",
+  "dgSpecHash": "6lKMReCksJuDU3ug0D+u64L6AfKMHar7q/lbZnmwa9WypUu4BTgFTvTFmfuPddSZgci7DiOEKifjWVe9V67UEw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\source\\repos\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.Activities\\NBut.Workflow.Activities.csproj",
+  "projectFilePath": "C:\\Users\\butni\\source\\repos\\UiPath-CustomActivities\\NBut.Workflow\\NBut.Workflow\\NBut.Workflow.Activities\\NBut.Workflow.Activities.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

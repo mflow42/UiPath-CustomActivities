@@ -4,17 +4,17 @@
 library
 C#
 .cs
-C:\Users\User\source\repos\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities.Design\obj\Debug\net461\
+C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\NBut.Workflow\NBut.Workflow.Activities.Design\obj\Debug\net461\
 NBut.Workflow.Activities.Design
 none
 false
 TRACE;DEBUG;NETFRAMEWORK;NET461
 
-7636147624
+71954430583
 
-20718622166
-21-1656837356
-..\..\Shared\Themes\Generic.xaml;Designers\IfThenDesigner.xaml;Themes\Icons.xaml;C:\Users\User\source\repos\NBut.Workflow\Shared\UiPath.Shared.Activities.Design\Controls\ComboboxControl.xaml;C:\Users\User\source\repos\NBut.Workflow\Shared\UiPath.Shared.Activities.Design\Controls\FilePathControl.xaml;C:\Users\User\source\repos\NBut.Workflow\Shared\UiPath.Shared.Activities.Design\Controls\RestrictiveBodyConnector.xaml;C:\Users\User\source\repos\NBut.Workflow\Shared\UiPath.Shared.Activities.Design\Editors\EditorTemplates.xaml;
+20-415541003
+21-2063444039
+..\..\Shared\Themes\Generic.xaml;Designers\IfThenDesigner.xaml;Themes\Icons.xaml;C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\Shared\UiPath.Shared.Activities.Design\Controls\ComboboxControl.xaml;C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\Shared\UiPath.Shared.Activities.Design\Controls\FilePathControl.xaml;C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\Shared\UiPath.Shared.Activities.Design\Controls\RestrictiveBodyConnector.xaml;C:\Users\butni\source\repos\UiPath-CustomActivities\NBut.Workflow\Shared\UiPath.Shared.Activities.Design\Editors\EditorTemplates.xaml;
 
 False
 

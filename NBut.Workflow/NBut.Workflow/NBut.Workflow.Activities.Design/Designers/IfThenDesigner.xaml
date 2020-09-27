@@ -29,17 +29,24 @@
         <StackPanel>
             <Label Content="{x:Static p:Resources.IfThen_Condition_DisplayName}" />
             <view:ExpressionTextBox
+                MinWidth="300"
+                HorizontalAlignment="Stretch"
                 OwnerActivity="{Binding Path=ModelItem}"
                 HintText="Enter a VB expression"
                 ExpressionType="system:Boolean"
                 Expression="{Binding Path=ModelItem.Condition,Converter={StaticResource ArgumentToExpressionConverter}, ConverterParameter=In, Mode=TwoWay}" />
             <Label Content="Then" />
+            <Border
+                BorderThickness="1"
+                BorderBrush="#D6D6D6"
+                CornerRadius="2">
             <sap:WorkflowItemPresenter
                 x:Uid="sad:WorkflowItemPresenter_1"
                 AutomationProperties.AutomationId="Activity"
                 Item="{Binding Path=ModelItem.Body.Handler, Mode=TwoWay}"
                 AllowedItemType="{x:Type sa:Activity}"
                 HintText="{x:Static p:Resources.DropActivityHere}"/>
+            </Border>
         </StackPanel>
     </uip:ActivityDecoratorControl>
 </sap:ActivityDesigner>

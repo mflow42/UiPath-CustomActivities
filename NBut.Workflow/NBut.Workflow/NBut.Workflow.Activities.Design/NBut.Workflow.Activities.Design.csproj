@@ -8,13 +8,13 @@
   <!-- Package Metadata -->
   <PropertyGroup>
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
-    <PackageLicenseExpression>Apache-2.0</PackageLicenseExpression>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <Description>Enhanced UiPath workflow control activities:
-    1. If then - conditional statement 'if' without 'else' block.</Description>
+    1. If then - conditional statement if without else block.</Description>
     <Authors>Nikolay But</Authors>
     <Company>Nikolay But</Company>
     <Copyright>Nikolay But @ 2020</Copyright>
-    <PackageTags>UiPath Activit𝗒</PackageTags>
+    <PackageTags>UiPath Activit𝗒 If Without Else Block Statement Workflow Control</PackageTags>
     <PackageProjectUrl>https://docs.uipath.com/integrations/docs/how-to-create-activities</PackageProjectUrl>
     <PackageIconUrl>https://i.imgur.com/guP5AKm.png</PackageIconUrl>
     <PackageIcon>packageIcon.png</PackageIcon>
@@ -25,10 +25,10 @@
   </PropertyGroup>
   <!-- Package Versions -->
   <PropertyGroup Condition="'$(Configuration)' == 'Debug'">
-    <PackageVersion>1.0.0.$([System.DateTime]::UtcNow.ToString(MMddHmmss))</PackageVersion>
+    <PackageVersion>1.0.2.$([System.DateTime]::UtcNow.ToString(MMddHmmss))</PackageVersion>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)' == 'Release'">
-    <PackageVersion>1.0.0.1</PackageVersion>
+    <PackageVersion>1.0.2</PackageVersion>
   </PropertyGroup>
   <ItemGroup>
     <None Remove="Designers\IfThenDesigner.xaml" />
